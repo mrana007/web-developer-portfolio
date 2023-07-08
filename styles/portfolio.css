@@ -113,12 +113,13 @@ main{
     margin-bottom: 30px;
 }
 
-/* main section styles */
-
 /* about section styles */
 .about {
     padding: 130px;
     border-radius: 10px;
     background: #FFF8F3;
     margin: 130px 0;
+}
+#what-i-do-description{
+    padding: 30px 150px;
 }
